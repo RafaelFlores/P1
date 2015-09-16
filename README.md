@@ -9,7 +9,7 @@
 3. Refresh your HTML/CSS skills if needed.
 
 ## Demo
-<https://www.youtube.com/watch?v=RoqrD9ZD0N4&feature=youtu.be>
+<https://youtu.be/LtpyzBtrJvQ>
 
 ## Details for teaching team
 Simple static HTML page
